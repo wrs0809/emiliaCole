@@ -1,0 +1,43 @@
+.body_about{
+    background-image: url('../img/emilia-about.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 850px;
+}
+
+#titulo_about{
+    font-size: 70px;
+}
+
+#texto1{
+    margin: 50px;
+    color: var(--color-verde);
+}
+
+#texto1 h3{
+    font-size: 30px;
+    font-weight: 100;
+
+}
+
+#texto1 h5{
+    font-size: 15px;
+    font-weight: 100;
+}
+
+#texto2{
+    margin: 50px;
+    color: var(--color-verde);
+}
+
+#texto2 h3{
+    font-size: 30px;
+    font-weight: 100;
+
+}
+
+#texto2 h5{
+    font-size: 15px;
+    font-weight: 100;
+}

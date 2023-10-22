@@ -1,0 +1,46 @@
+:root {
+    --color-gris: rgb(174, 174, 174);
+    --color-negro: black;
+    --color-verde: rgb(70, 201, 151);
+    --color-background: white;
+} 
+a:link{
+    text-decoration: none;
+}
+
+* {
+    font-family:'Roboto', sans-serif;
+
+}
+
+.nav_redessociales li{
+    display: inline;
+}
+
+.nav_redessociales a {
+    color: var(--color-negro);
+}
+
+.header_nav{
+    /* background-image: url('../img/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 110px; */
+    text-align: right;    
+    padding-top: 30px;
+}
+
+
+.nav_accesos_cabecera li{
+    list-style: none;
+    display: inline;
+}
+
+.nav_accesos_cabecera a{
+    color: var(--color-negro);
+}
+
+.nav_bloque_sombreado{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 6px 2px;
+}

@@ -1,0 +1,28 @@
+#titulo_contact{
+    font-size: 60px;
+}
+
+#subtitulo_contact{
+    font-size: 30px;
+}
+.sector_encargado{
+    font-size: 20px;
+    color: var(--color-verde);
+}
+
+.email_contacto p{
+    display: inline;
+}
+
+.email_contacto a{
+    color: var(--color-gris);
+}
+
+.phone_contacto p{
+    display: inline;
+}
+
+.phone_contacto a{
+    color: var(--color-gris);
+}
+
